@@ -1,0 +1,105 @@
+.page-title {
+  font-weight: bolder;
+  font-size: 30px;
+  margin: auto;
+}
+
+.search {
+  height: 30px;
+  width: 200px;
+}
+
+.search span {
+  border-radius: 0;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border: none;
+}
+
+.search span i {
+  color: white;
+}
+
+.search span:hover {
+  border-radius: 0;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border: none;
+  background-color: #666;
+}
+
+.search input {
+  border-radius: 0;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #e9ecef;
+  color: white;
+  border: none;
+  height: 30px;
+}
+
+.navbar-notif {
+  width: 30px;
+  height: 30px;
+  color: rgb(0, 139, 0);
+}
+
+.navbar-profil .profil {
+  width: 40px;
+}
+
+.nav-menu-hidden {
+  border-bottom: grey solid 1px;
+}
+
+.menu-hidden .angle-right {
+  visibility: hidden;
+  padding: 0;
+  margin: 0;
+}
+
+.dashboard-box {
+  padding: 5px;
+}
+
+.scrolling-table {
+  width: auto;
+  overflow: scroll;
+}
+
+.content-box {
+  width: 100%;
+  height: fit-content;
+  background: white;
+  border: rgb(204, 204, 204) solid 1px;
+  border-radius: 15px;
+  padding: 20px;
+}
+.content-box .row-box {
+  width: 100%;
+}
+
+.content-box .row-box .main-box {
+  width: min-content;
+}
+
+.content-box .row-box .main-box p {
+  color: rgb(151, 151, 151);
+}
+
+.content-box .row-box .main-box h3 {
+  font-weight: bold;
+}
+
+.content-box .row-box .main-box i {
+  color: green;
+  margin-top: 0px;
+}
+
+.content-box .row-box .main-box .percent-box {
+  color: green;
+}
+
+.table-dashboard .table-content {
+  border-radius: 15px;
+}
