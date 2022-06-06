@@ -3,9 +3,9 @@
 
           <!-- Logo -->
           <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
-              <a class="navbar-brand brand-logo mr-5" href="index.html"><img src="images/logo-tambah-pd-full.png"
+              <a class="navbar-brand brand-logo mr-5" href="index.html"><img src="img/logo-tambah-pd-full.png"
                       class="mr-2" alt="logo" /></a>
-              <a class="navbar-brand brand-logo-mini" href="index.html"><img src="images/logo-tambah-pd-head.png"
+              <a class="navbar-brand brand-logo-mini" href="index.html"><img src="img/logo-tambah-pd-head.png"
                       alt="logo" /></a>
           </div>
           <!-- Logo -->
@@ -35,7 +35,7 @@
 
               <!-- Foto Profil -->
               <div class=" d-flex align-items-center mx-2 navbar-profil">
-                  <img src="images/faces/face28.jpg" alt="profile" class="profil" />
+                  <img src="img/a1.jpg" alt="profile" class="profil" />
               </div>
               <!-- Foto Profil -->
           </div>

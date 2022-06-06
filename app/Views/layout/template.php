@@ -8,7 +8,6 @@
     <title>TambahPD</title>
 
     <!-- Icons -->
-    <link rel="stylesheet" href="vendors/feather/feather.css" />
     <link rel="stylesheet" href="vendors/ti-icons/css/themify-icons.css" />
     <link rel="stylesheet" href="vendors/css/vendor.bundle.base.css" />
     <!-- EndIcons -->
@@ -18,7 +17,7 @@
     <!-- Plugin -->
     <link rel="stylesheet" href="vendors/datatables.net-bs4/dataTables.bootstrap4.css" />
     <link rel="stylesheet" href="vendors/ti-icons/css/themify-icons.css" />
-    <link rel="stylesheet" type="text/css" href="js/select.dataTables.min.css" />
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
     <!-- End plugin -->
 
     <!-- Custom Css -->
@@ -26,7 +25,7 @@
     <link rel="stylesheet" href="css/vertical-layout-light/custom.css" />
     <!-- End -->
 
-    <link rel="shortcut icon" href="images/logo-tambah-pd-head.png" />
+    <link rel="shortcut icon" href="img/logo-tambah-pd-head.png" />
 </head>
 
 <body>
